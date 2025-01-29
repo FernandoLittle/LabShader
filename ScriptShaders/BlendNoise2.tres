@@ -382,7 +382,6 @@ void fragment() {
 
 }
 "
-graph_offset = Vector2(-684.409, -131.565)
 modes/blend = 1
 modes/diffuse = 3
 nodes/vertex/2/node = SubResource("VisualShaderNodeBillboard_kti4r")
